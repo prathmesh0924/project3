@@ -1,2 +1,2 @@
 for i in range(1, 11):
-    print(i*i)
+    print("Square of", i, "is", i*i)
